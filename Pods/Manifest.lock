@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.2)
+  - JGProgressHUD (2.0.3)
+  - Realm (3.14.1):
+    - Realm/Headers (= 3.14.1)
+  - Realm/Headers (3.14.1)
+  - RealmSwift (3.14.1):
+    - Realm (= 3.14.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - JGProgressHUD
+  - RealmSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - JGProgressHUD
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Realm: e12c9c2387d05c5bba3a9c394838f5870e85763b
+  RealmSwift: a82eab9b04c3e1616082c7e17aa300740847769c
+
+PODFILE CHECKSUM: 109c5347f325902a4965e833ac7dbfd3016547a1
+
+COCOAPODS: 1.6.1
